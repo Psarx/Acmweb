@@ -117,6 +117,20 @@ section {
     display: inline-block;
   }
 }
+#show{
+  background-color: #16459d;
+  padding: 12px;
+  border-radius: 4px;
+  width: 150px;
+}
+#show:hover{
+  background-color: #16459d;
+  padding: 12px;
+  border-radius: 4px;
+  width: 150px;
+  color: white;
+}
+
 
 /*--------------------------------------------------------------
 # Back to top button
