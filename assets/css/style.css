@@ -118,10 +118,12 @@ section {
   }
 }
 #show{
-  background-color: #16459d;
+  /* background-color: #16459d; */
   padding: 12px;
-  border-radius: 4px;
+  border-radius: 10px;
   width: 150px;
+  border-color:white;
+  border-style: solid;
 }
 #show:hover{
   background-color: #16459d;
